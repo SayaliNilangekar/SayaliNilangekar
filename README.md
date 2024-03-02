@@ -20,18 +20,18 @@ Tools & Platforms: [Express, Docker, Kubernetes, Spring Boot, Apache Kafka, Amaz
 - 🌱 **I’m currently learning:** Contributing to open source! Hit me up if you have any tips for me :)
 - 🤔 **I’m looking for help with:** Finding a full-time software engineering opportunity!
 - 💬 **Ask me about:** 
- - My undergraduate years at Purdue University
- - Transitioning from Computer Engineering to Software
- - My work experience at Intuit and TechSera
- - Switching from industry to Masters in Software Engineering
- - Web Development
+  * My undergraduate years at Purdue University
+  * Transitioning from Computer Engineering to Software
+  * My work experience at Intuit and TechSera
+  * Switching from industry to Masters in Software Engineering
+  * Web Development
    
 - 📧 **How to reach me:** Email me @ nilangekar.sayali@gmail.com
 - 😄 **Pronouns:** She/her/hers
 - ⚡ **Fun facts about me:** 
-- I'm trilingual
-- I'm a board game aficionado! My favorite game night includes Ticket to Ride/ Clue/ Codenames, and I'm always on the lookout for new strategic challenges!
-- Outside of coding, I'm passionate about music. I play the ukulele and dabble in learning the piano, and my favorite genre is Pop music. Ask me about my go-to coding playlist!
-- I love traveling! I have visited 5 countries, lived in 3 of them, and visited 11 states since coming to the US :)
+  * I'm trilingual
+  * I'm a board game aficionado! My favorite game night includes Ticket to Ride/ Clue/ Codenames, and I'm always on the lookout for new strategic challenges!
+  * Outside of coding, I'm passionate about music. I play the ukulele and dabble in learning the piano, and my favorite genre is Pop music. Ask me about my go-to coding playlist!
+  * I love traveling! I have visited 5 countries, lived in 3 of them, and visited 11 states since coming to the US :)
 
 
