@@ -10,10 +10,13 @@ Here are some ideas to get you started:
 Hi there! I'm Sayali (pronounced "saay-lee", like Miley/Kylie), a software engineer passionate about Full-Stack Web Dev and AI. I thrive on turning innovative ideas into scalable and impactful solutions and enjoy exploring new technologies.
 
 ### Technologies & Tools 🔧
-Languages: [Java, Python, JavaScript, TypeScript, HTML, CSS, C, C++, Kotlin, Swift, MATLAB, Dart, SQL]
-Frameworks & Libraries: [React, Redux, GraphQL, Django, Node.js, Next.js, Angular, AJAX, JSON, Babel, Webpack, NPM, Figma, Jest, Enzyme, Cypress, Flutter, Ionic, gRPC]
-Databases: [MySQL, SQL, MongoDB (NoSQL), PostgreSQL]
-Tools & Platforms: [Express, Docker, Kubernetes, Spring Boot, Apache Kafka, Amazon Web Services (RDS, EC2, Lambda, S3, CloudWatch, AutoScaling, Elastic Load Balancing), Swagger, Postman, OpenAI]
+- Languages: [Java, Python, JavaScript, TypeScript, HTML, CSS, C, C++, Kotlin, Swift, MATLAB, Dart, SQL]
+  
+- Frameworks & Libraries: [React, Redux, GraphQL, Django, Node.js, Next.js, Angular, AJAX, JSON, Babel, Webpack, NPM, Figma, Jest, Enzyme, Cypress, Flutter, Ionic, gRPC]
+  
+- Databases: [MySQL, SQL, MongoDB (NoSQL), PostgreSQL]
+  
+- Tools & Platforms: [Express, Docker, Kubernetes, Spring Boot, Apache Kafka, Amazon Web Services (RDS, EC2, Lambda, S3, CloudWatch, AutoScaling, Elastic Load Balancing), Swagger, Postman, OpenAI]
 
 ### Get to know me! ✨
 - 🔭 **I’m currently working on:**  Building a mood-based movie and music recommendation system, integrating machine learning models into a web application.
